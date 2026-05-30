@@ -1,0 +1,20 @@
+Date: 30/5/2026
+Time: 21:15
+Phone Number: +918240523814
+Message: Hi I am Aditya
+--------------------
+Date: 30/5/2026
+Time: 21:19
+Phone Number: +918240523814
+Message: Hi I am Aditya
+--------------------
+Date: 30/5/2026
+Time: 21:23
+Phone Number: +918240523814
+Message: Hi Aditya, this is an instant test alert!
+--------------------
+Date: 30/5/2026
+Time: 21:25
+Phone Number: +918240523814
+Message: Hi Aditya, this was automatically scheduled!
+--------------------
